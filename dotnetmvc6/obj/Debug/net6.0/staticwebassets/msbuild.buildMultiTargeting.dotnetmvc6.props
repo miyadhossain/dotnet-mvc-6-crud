@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\dotnetmvc6.props" />
+</Project>
